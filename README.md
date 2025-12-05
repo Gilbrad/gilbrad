@@ -18,6 +18,7 @@
 <img src="https://img.icons8.com/?size=100&id=grZaE9tjqDyr&format=png&color=000000" alt="supabase" width="40" height="40"/>
 <img src="https://img.icons8.com/?size=100&id=44442&format=png&color=000000" alt="golang" width="40" height="40"/>
 <img src="https://img.icons8.com/?size=100&id=e6uRfPIDgoXi&format=png&color=000000" alt="aws" width="40" height="40"/>
+<img src="https://img.icons8.com/?size=100&id=Mm35TzLKahiF&format=png&color=000000" alt="svelte" width="40" height="40"/>
 </p>
 
 
