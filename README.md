@@ -21,7 +21,8 @@
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" />
+  <img src="https://img.shields.io/badge/SvelteKit-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white" />
+  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
 
 </p>
 
@@ -38,26 +39,13 @@
 </h2>
 <div align="center">
   
-  [<img width="50px" title="LinkedIn" src="https://img.icons8.com/fluent/344/linkedin.png" />][linkedin]
-  [<img width="50px" title="Facebook" src="https://img.icons8.com/?size=100&id=118497&format=png&color=000000" />][facebook]
+  [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff)][linkedin]
+  [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)][facebook]
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)][gmail]
   
 </div>
 
 
 [linkedin]: https://www.linkedin.com/in/gcalanza/
 [facebook]: https://www.facebook.com/gilean.cyrus.alanza/
-
-<!--
-**Gilbrad/gilbrad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[gmail]: mailto:gilcy.alanza@gmail.com
