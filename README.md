@@ -48,4 +48,4 @@
 
 [linkedin]: https://www.linkedin.com/in/gcalanza/
 [facebook]: https://www.facebook.com/gilean.cyrus.alanza/
-[gmail]: mailto:gilcy.alanza@gmail.com
+[gmail]: https://mail.google.com/mail/?view=cm&to=gilcy.alanza@gmail.com
